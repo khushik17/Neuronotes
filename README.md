@@ -1,113 +1,190 @@
+
 <div align="center">
 
-# 🧠 NeuroNotes
+```
+███╗   ██╗███████╗██╗   ██╗██████╗  ██████╗ ███╗   ██╗ ██████╗ ████████╗███████╗███████╗
+████╗  ██║██╔════╝██║   ██║██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔════╝
+██╔██╗ ██║█████╗  ██║   ██║██████╔╝██║   ██║██╔██╗ ██║██║   ██║   ██║   █████╗  ███████╗
+██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██║   ██║██║╚██╗██║██║   ██║   ██║   ██╔══╝  ╚════██║
+██║ ╚████║███████╗╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝   ██║   ███████╗███████║
+╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝   ╚═╝   ╚══════╝╚══════╝
+```
 
-### *Your second brain, supercharged.*
+**Your second brain, supercharged.**
 
-**AI-powered notes ecosystem for students — import, learn, quiz, connect.**
+*Import PDFs. Get AI chapters. Quiz your knowledge. Map your ideas.*
 
-![Status](https://img.shields.io/badge/status-coming%20soon-blueviolet?style=for-the-badge)
-![Built With](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Styled With](https://img.shields.io/badge/styled%20with-Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)
+<br/>
+
+[![Status](https://img.shields.io/badge/🚀%20Status-Coming%20Soon-8b5cf6?style=flat-square)](https://github.com/khushik17/Neuronotes)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
+
+<br/>
+
+> 🎯 **Early access waitlist is open** — [Join now](https://github.com/khushik17/Neuronotes)
 
 </div>
 
 ---
 
-## ✨ What is NeuroNotes?
+## 📖 About
 
-NeuroNotes is a next-generation AI-powered study platform designed to transform the way students learn. Import your PDFs, let AI organize your notes into chapters, quiz yourself, and build a living knowledge map — all in one place.
+NeuroNotes is an **AI-powered study ecosystem** built for students who want to learn faster, retain more, and understand deeper.
 
-> 🚀 **Currently in development.** Join the waitlist to get early access.
+Most note-taking apps just store text. NeuroNotes **thinks with you** — it reads your PDFs, structures your knowledge, quizzes you on weak spots, lets you chat with your notes, and even conducts live AI viva sessions to truly test your understanding.
 
 ---
 
-## 🎯 Core Features
+## ⚡ Features
 
-| Feature | Description |
-|---|---|
-| 📄 **Smart PDF Import** | Upload any PDF — AI splits it into chapters based on your preference |
-| 🏷️ **Smart Tagging** | Tag notes manually or let AI auto-generate contextual tags |
-| 🃏 **Flashcards** | Auto-generated flashcards for spaced repetition and quick revision |
-| 📊 **Quiz & Reports** | AI quizzes with weakness reports and time investment suggestions |
-| 💬 **Chat with Notes** | Ask questions — AI answers using your own notes as context |
-| 🎤 **AI Viva** | Live AI examiner conducts a mock oral exam over video call |
-| 🗺️ **Knowledge Map** | Interactive graph of notes as nodes — visualize connections between concepts |
-| 🃏 **Concept Cards** | Zettelkasten-style atomic cards linked across your knowledge base |
-| 📰 **Community Feed** | Publish notes and posts for other students to discover and learn from |
-| 🔥 **Habits & Streaks** | Built-in habit tracker to keep your study schedule consistent |
+<table>
+<tr>
+<td width="50%">
+
+### 📄 Smart PDF Import
+Upload any PDF and NeuroNotes automatically divides it into clean chapters. You decide how many chapters — the AI adapts.
+
+</td>
+<td width="50%">
+
+### 🏷️ Intelligent Tagging
+Tag notes manually, or let the AI generate contextual tags automatically. Find anything instantly by searching tags or note titles.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🃏 Flashcards
+Auto-generated flashcards from your notes for spaced repetition and quick daily revision.
+
+</td>
+<td width="50%">
+
+### 📊 Quiz & Weakness Reports
+Take AI-generated quizzes. Get detailed reports showing exactly which topics are weak and how much time to invest in each.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 Chat with Your Notes
+Ask anything about your notes in plain English. The AI answers using your own content as context — like a tutor who's read everything you have.
+
+</td>
+<td width="50%">
+
+### 🎤 AI Viva (Video Call)
+A live AI examiner conducts a mock oral exam over video. Answer questions based on your notes and get real-time feedback.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗺️ Knowledge Map
+Every note is a node on an interactive visual graph. Draw connections between concepts. Weak nodes are highlighted so you know where to focus.
+
+</td>
+<td width="50%">
+
+### 🃏 Concept Cards (Zettelkasten)
+Write atomic thought-cards about concepts and link them across your knowledge base — inspired by the Zettelkasten method.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📰 Community Blog Feed
+Publish your notes and study posts for other students to discover. Learn from peers, share insights, grow together.
+
+</td>
+<td width="50%">
+
+### 🔥 Habits & Streaks
+Built-in habit tracker tailored to your study schedule. Stay consistent and track your daily learning progress.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Framework | React 18 + TypeScript |
-| Build Tool | Vite |
-| Styling | Tailwind CSS v4 |
-| Animations | Framer Motion |
-| Icons | Lucide React |
-| Font | Instrument Serif (Google Fonts) |
+```
+Frontend     →  React 18 + TypeScript
+Build Tool   →  Vite 8
+Styling      →  Tailwind CSS v4
+Animations   →  Framer Motion
+Icons        →  Lucide React
+Typography   →  Instrument Serif (Google Fonts)
+```
 
 ---
 
-## 🚀 Getting Started (Local Dev)
+## 🚀 Quick Start
 
 ```bash
-# Clone the repo
+# 1. Clone
 git clone https://github.com/khushik17/Neuronotes.git
 cd Neuronotes
 
-# Install dependencies
+# 2. Install
 npm install
 
-# Start dev server
+# 3. Run
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open → [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📁 Project Structure
+## 📁 Structure
 
 ```
-landing/
-├── public/
-│   ├── favicon.svg
-│   └── icons.svg
-├── src/
-│   ├── App.tsx              # Root component
-│   ├── Index.tsx            # Hero section
-│   ├── FeaturesSection.tsx  # Features + Footer
-│   ├── index.css            # Global styles & design system
-│   └── main.tsx             # Entry point
-├── index.html
-├── vite.config.ts
-└── package.json
+src/
+├── App.tsx               ← Root
+├── Index.tsx             ← Hero section
+├── FeaturesSection.tsx   ← Features + Footer
+├── index.css             ← Design system & globals
+└── main.tsx              ← Entry point
 ```
 
 ---
 
-## 🎨 Design Philosophy
+## 🗺️ Roadmap
 
-NeuroNotes is built with a **cinematic dark premium aesthetic** — deep navy tones, soft glassmorphism cards, ambient glow effects, and smooth scroll animations. Inspired by Linear, Vercel, and modern AI startups.
-
----
-
-## 📬 Join the Waitlist
-
-Be the first to know when NeuroNotes launches.
-
-👉 **[neuronotes — coming soon](https://github.com/khushik17/Neuronotes)**
+- [x] Landing page with waitlist
+- [ ] Authentication (sign up / login)
+- [ ] PDF import & AI chapter splitting
+- [ ] Note tagging (manual + AI)
+- [ ] Flashcard generation
+- [ ] Quiz engine + weakness report
+- [ ] Chat with notes
+- [ ] Knowledge map (graph view)
+- [ ] AI Viva (video call)
+- [ ] Community feed
+- [ ] Mobile app
 
 ---
 
 ## 🤝 Contributing
 
-This project is currently in early development. Star the repo to stay updated — contributions and feedback will be welcome once the core is open-sourced. ⭐
+Star the repo ⭐ to stay updated. Contributions will be welcome once the core is open-sourced.
+
+1. Fork the repo
+2. Create your branch → `git checkout -b feature/your-feature`
+3. Commit changes → `git commit -m "feat: your feature"`
+4. Push → `git push origin feature/your-feature`
+5. Open a Pull Request
 
 ---
 
@@ -118,5 +195,9 @@ MIT © [khushik17](https://github.com/khushik17)
 ---
 
 <div align="center">
-Made with ❤️ for students who want to learn smarter.
+
+**Made with ❤️ for students who want to learn smarter.**
+
+[⭐ Star this repo](https://github.com/khushik17/Neuronotes) · [🐛 Report Bug](https://github.com/khushik17/Neuronotes/issues) · [💡 Request Feature](https://github.com/khushik17/Neuronotes/issues)
+
 </div>
