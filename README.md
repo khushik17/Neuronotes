@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="public/favicon.svg" alt="NeuroNotes Logo" width="80" height="80" />
-
-# NeuroNotes
+# 🧠 NeuroNotes
 
 ### *Your second brain, supercharged.*
 
 **AI-powered notes ecosystem for students — import, learn, quiz, connect.**
 
-[![Status](https://img.shields.io/badge/status-coming%20soon-blueviolet?style=for-the-badge)](https://github.com/khushik17/Neuronotes)
-[![Built With](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Styled With](https://img.shields.io/badge/styled%20with-Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+![Status](https://img.shields.io/badge/status-coming%20soon-blueviolet?style=for-the-badge)
+![Built With](https://img.shields.io/badge/built%20with-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Styled With](https://img.shields.io/badge/styled%20with-Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)
 
 </div>
 
@@ -25,40 +23,20 @@ NeuroNotes is a next-generation AI-powered study platform designed to transform 
 
 ---
 
-## 🧠 Core Features
+## 🎯 Core Features
 
-### 📄 Smart PDF Import
-Upload any PDF and NeuroNotes automatically splits it into chapters. Choose how many chapters you want — the AI adapts to your preference.
-
-### 🏷️ Smart Tagging
-Tag your notes manually or let the AI generate contextual tags automatically. Search instantly by tag name or note title.
-
-### 🃏 Flashcards
-Auto-generated flashcards from your notes for quick revision and spaced repetition.
-
-### 📊 Quiz & Performance Reports
-Take AI-generated quizzes on your notes. Get detailed reports showing:
-- Which topics you're weak on
-- How much time you should invest per topic
-- Progress tracking over time
-
-### 💬 Chat with Notes
-Ask questions directly about your notes. The AI answers using your own content as context — like having a tutor who has read everything you have.
-
-### 🎤 AI Viva (Video Call)
-A live AI examiner conducts a mock oral exam over video. Answer questions based on your notes and get real-time feedback.
-
-### 🗺️ Knowledge Map
-Every note is a node on an interactive graph. Draw connections between concepts, visualize your thinking, and discover relationships across subjects. Weak nodes are highlighted so you know where to focus.
-
-### 🃏 Concept Cards (Zettelkasten)
-Write atomic thought-cards about concepts and link them to related cards — inspired by the Zettelkasten method. Build a personal knowledge web.
-
-### 📰 Community Blog Feed
-Publish your notes or study posts for other students to discover. Learn from peers, share insights, and grow together.
-
-### 🔥 Habits & Streaks
-Stay consistent with a built-in habit tracker tailored to your study schedule.
+| Feature | Description |
+|---|---|
+| 📄 **Smart PDF Import** | Upload any PDF — AI splits it into chapters based on your preference |
+| 🏷️ **Smart Tagging** | Tag notes manually or let AI auto-generate contextual tags |
+| 🃏 **Flashcards** | Auto-generated flashcards for spaced repetition and quick revision |
+| 📊 **Quiz & Reports** | AI quizzes with weakness reports and time investment suggestions |
+| 💬 **Chat with Notes** | Ask questions — AI answers using your own notes as context |
+| 🎤 **AI Viva** | Live AI examiner conducts a mock oral exam over video call |
+| 🗺️ **Knowledge Map** | Interactive graph of notes as nodes — visualize connections between concepts |
+| 🃏 **Concept Cards** | Zettelkasten-style atomic cards linked across your knowledge base |
+| 📰 **Community Feed** | Publish notes and posts for other students to discover and learn from |
+| 🔥 **Habits & Streaks** | Built-in habit tracker to keep your study schedule consistent |
 
 ---
 
@@ -101,11 +79,11 @@ landing/
 │   ├── favicon.svg
 │   └── icons.svg
 ├── src/
-│   ├── App.tsx           # Root component
-│   ├── Index.tsx         # Hero section
+│   ├── App.tsx              # Root component
+│   ├── Index.tsx            # Hero section
 │   ├── FeaturesSection.tsx  # Features + Footer
-│   ├── index.css         # Global styles & design system
-│   └── main.tsx          # Entry point
+│   ├── index.css            # Global styles & design system
+│   └── main.tsx             # Entry point
 ├── index.html
 ├── vite.config.ts
 └── package.json
@@ -123,13 +101,13 @@ NeuroNotes is built with a **cinematic dark premium aesthetic** — deep navy to
 
 Be the first to know when NeuroNotes launches.
 
-👉 **[neuronotes.app](https://github.com/khushik17/Neuronotes)** *(coming soon)*
+👉 **[neuronotes — coming soon](https://github.com/khushik17/Neuronotes)**
 
 ---
 
 ## 🤝 Contributing
 
-This project is currently in early development. Contributions, ideas, and feedback are welcome once the core is open-sourced. Star the repo to stay updated! ⭐
+This project is currently in early development. Star the repo to stay updated — contributions and feedback will be welcome once the core is open-sourced. ⭐
 
 ---
 
@@ -140,7 +118,5 @@ MIT © [khushik17](https://github.com/khushik17)
 ---
 
 <div align="center">
-
 Made with ❤️ for students who want to learn smarter.
-
 </div>
